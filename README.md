@@ -27,7 +27,8 @@ Initial Seats
 [6] [7] [8] [9] [10]
 ```
 
-```After Booking Seat 3 and 7
+After Booking Seat 3 and 7
+```
 ===== SCREEN =====
 [1] [2] [X] [4] [5]
 [6] [X] [8] [9] [10]
